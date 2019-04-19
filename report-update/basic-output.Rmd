@@ -10,7 +10,7 @@ rmd_output_metadata:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-A common use case for [Schduling on RStudio Connect](https://docs.rstudio.com/connect/user/r-markdown-schedule.html), is to use that feature as part of an R-based process to automate scheduled data updates. This example report outputs a CSV file that can be used/consumed by other assets hosted on RStudio Connect.
+A common use case for [Scheduling on RStudio Connect](https://docs.rstudio.com/connect/user/r-markdown-schedule.html), is to use that feature as part of an R-based process to automate scheduled data updates. This example report outputs a CSV file that can be used/consumed by other assets hosted on RStudio Connect.
 
 ## R Markdown Output Metadata and Output Files
 
@@ -56,5 +56,9 @@ This is the step that creates the data.csv output file. There are two ways to sp
 
 Reference: [How to work with output files](https://docs.rstudio.com/connect/user/r-markdown.html#how-to-work-with-output-files)
 
-Here is the data generated from this report: [data.csv](data.csv)
+---
+
+### Download data 
+
+#### Here is the data generated from this report: [data.csv](data.csv)
 
