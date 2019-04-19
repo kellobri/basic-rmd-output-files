@@ -1,0 +1,12 @@
+name: etl_output_file_example
+title: ETL Output File Example
+username: kelly
+account: kelly
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 2353
+bundleId: 25607
+url: https://colorado.rstudio.com:443/rsc/content/2353/
+when: 1555538722.80758
+asMultiple: FALSE
+asStatic: FALSE
