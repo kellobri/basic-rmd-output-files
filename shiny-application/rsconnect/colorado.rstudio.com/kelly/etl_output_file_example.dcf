@@ -5,8 +5,8 @@ account: kelly
 server: colorado.rstudio.com
 hostUrl: https://colorado.rstudio.com/rsc/__api__
 appId: 2353
-bundleId: 25607
+bundleId: 25620
 url: https://colorado.rstudio.com:443/rsc/content/2353/
-when: 1555538722.80758
+when: 1555707591.17997
 asMultiple: FALSE
 asStatic: FALSE

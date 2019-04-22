@@ -1,6 +1,5 @@
 library(shiny)
 library(DT)
-library(httr)
 
 data <- read.csv('https://colorado.rstudio.com/rsc/content/2352/data.csv')
 

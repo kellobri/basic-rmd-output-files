@@ -1,6 +1,5 @@
 library(shiny)
 library(DT)
-library(httr)
 
 data <- read.csv('data.csv')
 
